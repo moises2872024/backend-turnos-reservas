@@ -24,7 +24,7 @@ Permite consultar, filtrar, crear, actualizar y eliminar servicios mediante endp
 1. Clonar el repositorio:
 
    ```bash
-   git 
+   git https://github.com/moises2872024/backend-turnos-reservas.git
    ```
 
 2. Entrar en la carpeta del proyecto:
